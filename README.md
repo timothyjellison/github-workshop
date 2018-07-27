@@ -1,11 +1,11 @@
 # github-workshop
 
 1. Create a GitHub account
-* Navigate to https://github.com
+* Navigate to [GitHub](https://github.com)
 * Enter new account details
 * Complete email verification
 2. Create a blog
-* Navigate to https://github.com/barryclark/jekyll-now
+* Navigate to [the Jekyll Now repository](https://github.com/barryclark/jekyll-now)
 * Hit the "Fork" button at the top right
 * Go to settings and change the repository name to <yourusername>.github.io
 * Scroll down to GitHub Pages and pick a theme

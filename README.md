@@ -7,7 +7,7 @@
 2. Create a blog
 * Navigate to [the Jekyll Now repository](https://github.com/barryclark/jekyll-now)
 * Hit the "Fork" button at the top right
-* Go to settings and change the repository name to <yourusername>.github.io
+* Go to settings and change the repository name to your user name + .github.io (for example mygithubaccount.github.io)
 * Scroll down to GitHub Pages and pick a theme
 * Open _config.yml and update the name and footer-links values
 3. Create a blog post
